@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Camada_2" data-name="Camada 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 651.44 878.6">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #68756e;
+      }
+
+      .cls-2 {
+        fill: #939ca1;
+      }
+
+      .cls-3 {
+        fill: #535759;
+      }
+
+      .cls-4 {
+        fill: #766f71;
+      }
+
+      .cls-5 {
+        fill: #4a474a;
+      }
+
+      .cls-6 {
+        fill: #6a686b;
+      }
+
+      .cls-7 {
+        fill: none;
+      }
+
+      .cls-8 {
+        fill: #858e93;
+      }
+
+      .cls-9 {
+        fill: #464647;
+      }
+
+      .cls-10 {
+        fill: #696e70;
+      }
+
+      .cls-11 {
+        fill: #afb1b3;
+      }
+
+      .cls-12 {
+        font-family: Lato-LightItalic, Lato;
+        font-size: 13.79px;
+        font-style: italic;
+        font-weight: 300;
+      }
+
+      .cls-13 {
+        fill: #6d737a;
+      }
+
+      .cls-14 {
+        fill: #555b65;
+      }
+
+      .cls-15 {
+        fill: #aeaba9;
+      }
+
+      .cls-16 {
+        clip-path: url(#clippath);
+      }
+
+      .cls-17 {
+        font-family: Lato-Bold, Lato;
+        font-size: 21.63px;
+        font-weight: 700;
+      }
+    </style>
+    <clipPath id="clippath">
+      <polygon class="cls-7" points="17.46 .47 643.94 0 643.94 867.54 0 854.49 17.46 .47"/>
+    </clipPath>
+  </defs>
+  <g id="Cena_1_-_Frame_2" data-name="Cena 1 - Frame 2">
+    <g>
+      <polygon class="cls-11" points="30.22 18.81 651.44 18.35 651.44 878.6 12.91 865.66 30.22 18.81"/>
+      <g class="cls-16">
+        <g>
+          <rect class="cls-1" x="-172" y="679.9" width="1012.61" height="195"/>
+          <path class="cls-3" d="M165.59,159.51l20.68,20.66v504.35l-20.68,9.82V159.51Z"/>
+          <path class="cls-3" d="M461.36,180.19l20.68-20.68v534.84l-20.68-9.81V180.19Z"/>
+          <path class="cls-10" d="M482.02,159.51l-20.67,20.68H186.26l-20.71-20.68h316.47Z"/>
+          <rect class="cls-4" x="-172" y="-105.89" width="337.59" height="800.24"/>
+          <rect class="cls-14" x="-172" y="478.8" width="337.59" height="215.55"/>
+          <rect class="cls-4" x="482.03" y="-105.89" width="358.58" height="800.24"/>
+          <rect class="cls-14" x="482.03" y="478.8" width="358.58" height="215.55"/>
+          <rect class="cls-13" x="-172" y="456.55" width="337.59" height="23.53"/>
+          <rect class="cls-13" x="482.03" y="456.55" width="358.58" height="23.53"/>
+          <rect class="cls-4" x="165.59" y="-105.89" width="316.45" height="265.4"/>
+          <rect class="cls-5" x="186.26" y="180.19" width="275.1" height="504.35"/>
+          <rect class="cls-2" x="237.86" y="231.44" width="171.4" height="217.03"/>
+          <path class="cls-15" d="M442.18,458.8h-25.94v-11.04h25.94l8.06-5.29,10.27,11.06-10.27,11.23-8.06-5.96Z"/>
+          <rect class="cls-9" x="254.77" y="297.79" width="145.95" height="48.65"/>
+          <rect class="cls-6" x="252.98" y="296" width="145.95" height="48.65"/>
+          <rect class="cls-8" x="237.86" y="231.44" width="6.55" height="217.12"/>
+          <rect class="cls-8" x="241.1" y="442.47" width="168.16" height="6.09"/>
+          <text class="cls-17" transform="translate(267.63 319.99)"><tspan x="0" y="0">Caio Nargas</tspan></text>
+          <text class="cls-12" transform="translate(299.04 337.38)"><tspan x="0" y="0">Jornalista</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
