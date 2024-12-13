@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Camada_2" data-name="Camada 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 984 656.05">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #68766f;
+      }
+
+      .cls-2 {
+        fill: #565b66;
+      }
+
+      .cls-3 {
+        fill: #6a696b;
+      }
+
+      .cls-4 {
+        fill: #545759;
+      }
+
+      .cls-5 {
+        fill: #6a6e70;
+      }
+
+      .cls-6 {
+        fill: #4a474a;
+      }
+
+      .cls-7 {
+        fill: #767072;
+      }
+
+      .cls-8 {
+        fill: #929ba0;
+      }
+
+      .cls-9 {
+        fill: #6d737b;
+      }
+
+      .cls-10 {
+        fill: #aca9a7;
+      }
+
+      .cls-11 {
+        fill: #838d92;
+      }
+
+      .cls-12 {
+        fill: #474647;
+      }
+    </style>
+  </defs>
+  <g id="Cena_1ab" data-name="Cena 1ab">
+    <g id="Frame_2" data-name="Frame 2">
+      <g>
+        <rect class="cls-1" y="540.05" width="984" height="116"/>
+        <path class="cls-4" d="M359.09,126.7l16.42,16.41v400.61l-16.42,7.8V126.7Z"/>
+        <path class="cls-4" d="M594.02,143.13l16.42-16.43v424.83l-16.42-7.79V143.13Z"/>
+        <path class="cls-5" d="M610.44,126.7l-16.41,16.42h-218.51l-16.45-16.42h251.38Z"/>
+        <polygon class="cls-7" points="984 0 984 551.53 610.44 551.53 610.44 126.7 359.09 126.7 359.09 551.53 0 551.53 0 0 984 0"/>
+        <rect class="cls-2" y="380.32" width="359.09" height="171.21"/>
+        <rect class="cls-2" x="610.45" y="380.32" width="373.55" height="171.21"/>
+        <rect class="cls-9" y="362.64" width="359.09" height="18.69"/>
+        <rect class="cls-9" x="610.45" y="362.64" width="373.55" height="18.69"/>
+        <rect class="cls-6" x="375.51" y="143.12" width="218.51" height="400.61"/>
+        <rect class="cls-8" x="416.5" y="183.84" width="136.15" height="172.39"/>
+        <path class="cls-10" d="M578.79,364.43h-20.6v-8.77h20.6l6.4-4.2,8.16,8.79-8.16,8.92-6.4-4.74Z"/>
+        <rect class="cls-12" x="429.93" y="236.54" width="115.93" height="38.64"/>
+        <rect class="cls-3" x="428.51" y="235.12" width="115.93" height="38.64"/>
+        <rect class="cls-11" x="416.5" y="183.84" width="5.2" height="172.46"/>
+        <rect class="cls-11" x="419.07" y="351.46" width="133.57" height="4.84"/>
+      </g>
+    </g>
+  </g>
+</svg>
